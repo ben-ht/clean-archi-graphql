@@ -1,0 +1,16 @@
+GraphQL
+
+CoffeeShop/bin
+CoffeeShop/obj
+
+CoffeeShop.Infrastructure/bin
+CoffeeShop.Infrastructure/obj
+
+CoffeeShop.GraphQL/obj
+CoffeeShop.GraphQL/bin
+
+CoffeeShop.Core/bin
+CoffeeShop.Core/obj
+
+CoffeeShop.Application/bin
+CoffeeShop.Application/obj

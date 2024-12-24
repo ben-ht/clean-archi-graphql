@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GraphQL.Server.Ui.Voyager" Version="8.2.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="14.3.0" />
+    <PackageReference Include="HotChocolate.AspNetCore.Voyager" Version="10.5.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoffeeShop.Application\CoffeeShop.Application.csproj" />
+    <ProjectReference Include="..\CoffeeShop.Core\CoffeeShop.Core.csproj" />
+    <ProjectReference Include="..\CoffeeShop.GraphQL\CoffeeShop.GraphQL.csproj" />
+    <ProjectReference Include="..\CoffeeShop.Infrastructure\CoffeeShop.Infrastructure.csproj" />
+    <ProjectReference Include="..\GraphQL\CoffeeShop.GraphQL.csproj" />
+  </ItemGroup>
+
+</Project>
