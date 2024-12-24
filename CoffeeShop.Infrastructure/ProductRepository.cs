@@ -1,13 +1,13 @@
 ﻿using CoffeeShop.Core.Entities;
 using CoffeeShop.Core.Interfaces;
 using CoffeeShop.Infrastructure.Context;
-using Microsoft.EntityFrameworkCore;
 
 
 namespace CoffeeShop.Infrastructure;
 public class ProductRepository : IProductRepository
 {
     private readonly CoffeeContext _context;
+    private const string IMAGE_FOLDER = "http://localhost:5118/images/";
 
     public ProductRepository(CoffeeContext context)
     {
@@ -31,8 +31,14 @@ public class ProductRepository : IProductRepository
 
     public async Task<IEnumerable<ProductDAO>> GetAll()
     {
-        return await _context.Products.OrderBy(p => p.ProductType).ToListAsync();
-    }
+        var products =  _context.Products.OrderBy(p => p.ProductType);
+        foreach (var product in products)
+        {
+            product.Image = IMAGE_FOLDER + product.Image;
+        }
+
+        return products;
+    }   
 
     public async Task<ProductDAO> Update(ProductDAO product)
     {

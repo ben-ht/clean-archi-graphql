@@ -4,6 +4,7 @@ using CoffeeShop.Infrastructure;
 using CoffeeShop.Infrastructure.Context;
 using GraphQL.Mutations.Products;
 using GraphQL.Queries;
+using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +19,7 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
     {
-        builder.WithOrigins("https://studio.apollographql.com")
+        builder.WithOrigins("https://studio.apollographql.com", "http://localhost:4200")
         .AllowAnyHeader()
         .AllowAnyMethod();
     });
@@ -50,6 +51,7 @@ app.UseCors();
 
 app.UseHttpsRedirection();
 
+app.UseStaticFiles();
 app.UseAuthorization();
 
 app.MapControllers();
