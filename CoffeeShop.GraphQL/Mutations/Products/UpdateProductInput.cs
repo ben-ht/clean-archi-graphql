@@ -2,10 +2,8 @@
 using HotChocolate;
 using HotChocolate.Types.Relay;
 
-namespace GraphQL.Types;
-
-[GraphQLDescription("A product is a drink, either coffee or hot milk")]
-public class Product
+namespace CoffeeShop.GraphQL.Mutations.Products;
+public class UpdateProductInput
 {
     [GraphQLDescription("The ID for the product.")]
     [ID]
@@ -26,21 +24,29 @@ public class Product
     [GraphQLDescription("The type of the product (0 = coffee / 1 = hot milk)")]
     public ProductType ProductType { get; set; }
 
-    
-    public Product(string name, string description, string image)
+    public UpdateProductInput(int id, string name, string description, double price, string image, ProductType productType)
     {
+        Id = id;
         Name = name;
         Description = description;
+        Price = price;
         Image = image;
+        ProductType = productType;
     }
+}
 
-    public Product(CoffeeShop.Core.Entities.ProductDAO product)
+public static class UpdateProductInputConverter
+{
+    public static CoffeeShop.Core.Entities.ProductDAO ToProduct(this UpdateProductInput input)
     {
-        Id = product.Id.Value;
-        Name = product.Name;
-        Description = product.Description;
-        Price = product.Price;
-        Image = product.Image;
-        ProductType = product.ProductType;
+        return new()
+        {
+            Id = input.Id,
+            Name = input.Name,
+            Description = input.Description,
+            Price = input.Price,
+            Image = input.Image,
+            ProductType = input.ProductType
+        };
     }
 }

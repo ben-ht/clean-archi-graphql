@@ -18,12 +18,9 @@ public class CoffeeContext : DbContext
     {
         var product = modelBuilder.Entity<ProductDAO>();
         product.HasKey(p => p.Id);
-        product.Property(p => p.Id).ValueGeneratedOnAdd();
 
         var user = modelBuilder.Entity<UserDAO>();
-        user.HasKey(p => p.Id);
-        user.Property(p => p.Id).ValueGeneratedOnAdd();
-
+        user.HasKey(u => u.Id);
         base.OnModelCreating(modelBuilder);
     }
 }
