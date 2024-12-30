@@ -8,9 +8,8 @@ public static class UserHelper
         return new()
         {
             Id = userDto.Id,
-            UserName = userDto.UserName,
+            Username = userDto.Username,
             Password = userDto.Password,
-            Email = userDto.Email,
         };
     }
 }

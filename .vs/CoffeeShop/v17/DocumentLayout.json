@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\orders\\ordermutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\orders\\ordermutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\queries\\orderqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\queries\\orderqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.core\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|solutionrelative:coffeeshop.core\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.core\\entities\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|solutionrelative:coffeeshop.core\\entities\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\types\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\types\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|solutionrelative:coffeeshop.infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.infrastructure\\context\\coffeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|solutionrelative:coffeeshop.infrastructure\\context\\coffeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\orders\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\orders\\createorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\orders\\createorderinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\orders\\createorderinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|solutionrelative:coffeeshop.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\types\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\types\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|solutionrelative:coffeeshop.infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DDB827-B275-418F-82BB-615D9B5FF050}|CoffeeShop\\CoffeeShop.API.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DDB827-B275-418F-82BB-615D9B5FF050}|CoffeeShop\\CoffeeShop.API.csproj|solutionrelative:coffeeshop\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|solutionrelative:coffeeshop.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DDB827-B275-418F-82BB-615D9B5FF050}|CoffeeShop\\CoffeeShop.API.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DDB827-B275-418F-82BB-615D9B5FF050}|CoffeeShop\\CoffeeShop.API.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA61FCB-C9EB-4226-94F5-6BB5A3221106}|CoffeeShop.Application\\CoffeeShop.Application.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.application\\dto\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA61FCB-C9EB-4226-94F5-6BB5A3221106}|CoffeeShop.Application\\CoffeeShop.Application.csproj|solutionrelative:coffeeshop.application\\dto\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA61FCB-C9EB-4226-94F5-6BB5A3221106}|CoffeeShop.Application\\CoffeeShop.Application.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA61FCB-C9EB-4226-94F5-6BB5A3221106}|CoffeeShop.Application\\CoffeeShop.Application.csproj|solutionrelative:coffeeshop.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.core\\entities\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|solutionrelative:coffeeshop.core\\entities\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\products\\productmutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\products\\productmutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\products\\updateproductinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\products\\updateproductinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\products\\createproductinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\products\\createproductinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.core\\entities\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|solutionrelative:coffeeshop.core\\entities\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.infrastructure\\coffeeshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0393A1E-F238-496C-BB9F-D898C994780F}|CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj|solutionrelative:coffeeshop.infrastructure\\coffeeshop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\queries\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\queries\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\products\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\products\\updateproductresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.graphql\\mutations\\common\\mutationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA85EB-F3DA-4137-AE2B-79F11F063257}|CoffeeShop.GraphQL\\CoffeeShop.GraphQL.csproj|solutionrelative:coffeeshop.graphql\\mutations\\common\\mutationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop.core\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C7D5C9-32E7-4495-884E-023F505A1F7C}|CoffeeShop.Core\\CoffeeShop.Core.csproj|solutionrelative:coffeeshop.core\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DDB827-B275-418F-82BB-615D9B5FF050}|CoffeeShop\\CoffeeShop.API.csproj|c:\\users\\benhb\\desktop\\coffeeshop\\coffeeshop\\coffeeshop\\coffeeshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D6DDB827-B275-418F-82BB-615D9B5FF050}|CoffeeShop\\CoffeeShop.API.csproj|solutionrelative:coffeeshop\\coffeeshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Infrastructure\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\OrderRepository.cs",
+              "RelativeToolTip": "CoffeeShop.Infrastructure\\OrderRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:15:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Core\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "CoffeeShop.Core\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:19:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Entities\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Core\\Entities\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Entities\\OrderDAO.cs",
+              "RelativeToolTip": "CoffeeShop.Core\\Entities\\OrderDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:38:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Types\\Order.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Types\\Order.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Types\\Order.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Types\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:32:14.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderInput.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderInput.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderInput.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderInput.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:21:08.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CoffeeShop.Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:46:40.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderResponse.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderResponse.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderResponse.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Orders\\CreateOrderResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:01:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderMutations.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Orders\\OrderMutations.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Orders\\OrderMutations.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Orders\\OrderMutations.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Orders\\OrderMutations.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:34:50.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoffeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\Context\\CoffeeContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Infrastructure\\Context\\CoffeeContext.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\Context\\CoffeeContext.cs",
+              "RelativeToolTip": "CoffeeShop.Infrastructure\\Context\\CoffeeContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:54:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderQueries.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Queries\\OrderQueries.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Queries\\OrderQueries.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Queries\\OrderQueries.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Queries\\OrderQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:11:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Entities\\UserDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Core\\Entities\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Entities\\UserDAO.cs",
+              "RelativeToolTip": "CoffeeShop.Core\\Entities\\UserDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:49:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Infrastructure\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\ProductRepository.cs",
+              "RelativeToolTip": "CoffeeShop.Infrastructure\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:09:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeToolTip": "CoffeeShop\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:26:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Types\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Types\\Product.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Types\\Product.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Types\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:53:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Infrastructure\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\UserRepository.cs",
+              "RelativeToolTip": "CoffeeShop.Infrastructure\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:00:16.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop\\UserController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\UserController.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop\\UserController.cs",
+              "RelativeToolTip": "CoffeeShop\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:30:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserHelper.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Application\\DTO\\Helpers\\UserHelper.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Application\\DTO\\Helpers\\UserHelper.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Application\\DTO\\Helpers\\UserHelper.cs",
+              "RelativeToolTip": "CoffeeShop.Application\\DTO\\Helpers\\UserHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:09:46.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Application\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Application\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Application\\DTO\\UserDto.cs",
+              "RelativeToolTip": "CoffeeShop.Application\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:05:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductMutations.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\ProductMutations.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Products\\ProductMutations.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\ProductMutations.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Products\\ProductMutations.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:42:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateProductInput.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductInput.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductInput.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductInput.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductInput.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwCcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:17:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateProductInput.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\CreateProductInput.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Products\\CreateProductInput.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\CreateProductInput.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Products\\CreateProductInput.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:42:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Entities\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Core\\Entities\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Entities\\ProductDAO.cs",
+              "RelativeToolTip": "CoffeeShop.Core\\Entities\\ProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:16:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CoffeeShop.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj",
+              "RelativeToolTip": "CoffeeShop.Infrastructure\\CoffeeShop.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:40:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Queries\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Queries\\ProductQueries.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Queries\\ProductQueries.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Queries\\ProductQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:10:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductResponse.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductResponse.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductResponse.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Products\\UpdateProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:48:44.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MutationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Common\\MutationResponse.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.GraphQL\\Mutations\\Common\\MutationResponse.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.GraphQL\\Mutations\\Common\\MutationResponse.cs",
+              "RelativeToolTip": "CoffeeShop.GraphQL\\Mutations\\Common\\MutationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:49:52.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Core\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop.Core\\Enums\\ProductType.cs",
+              "RelativeToolTip": "CoffeeShop.Core\\Enums\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:53:43.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CoffeeShop.http",
+              "DocumentMoniker": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop\\CoffeeShop.http",
+              "RelativeDocumentMoniker": "CoffeeShop\\CoffeeShop.http",
+              "ToolTip": "C:\\Users\\benhb\\Desktop\\CoffeeShop\\CoffeeShop\\CoffeeShop\\CoffeeShop.http",
+              "RelativeToolTip": "CoffeeShop\\CoffeeShop.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-23T15:28:09.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

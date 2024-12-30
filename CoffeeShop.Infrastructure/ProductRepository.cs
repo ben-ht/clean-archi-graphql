@@ -1,6 +1,7 @@
 ﻿using CoffeeShop.Core.Entities;
 using CoffeeShop.Core.Interfaces;
 using CoffeeShop.Infrastructure.Context;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace CoffeeShop.Infrastructure;
@@ -37,7 +38,7 @@ public class ProductRepository : IProductRepository
             product.Image = IMAGE_FOLDER + product.Image;
         }
 
-        return products;
+        return await products.ToListAsync();
     }   
 
     public async Task<ProductDAO> Update(ProductDAO product)

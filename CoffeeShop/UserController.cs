@@ -1,6 +1,5 @@
 ﻿using CoffeeShop.Application.DTO;
 using CoffeeShop.Application.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CoffeeShop.API;
@@ -21,6 +20,20 @@ public class UserController : ControllerBase
         try
         {
             return Ok(await _userService.GetById(id));
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
+    [HttpPost("")]
+    public async Task<IActionResult> Register(UserDto user)
+    {
+        try
+        {
+            await _userService.Create(user);
+            return Created();
         }
         catch (Exception ex)
         {

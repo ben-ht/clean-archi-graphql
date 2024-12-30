@@ -8,6 +8,7 @@ public class CoffeeContext : DbContext
 {
     public DbSet<ProductDAO> Products { get; set; }
     public DbSet<UserDAO> Users { get; set; }
+    public DbSet<OrderDAO> Orders { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -21,6 +22,10 @@ public class CoffeeContext : DbContext
 
         var user = modelBuilder.Entity<UserDAO>();
         user.HasKey(u => u.Id);
+
+        var order = modelBuilder.Entity<OrderDAO>();
+        order.HasKey(o => o.Id);
+
         base.OnModelCreating(modelBuilder);
     }
 }
